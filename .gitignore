@@ -1,0 +1,7 @@
+*comment*
+*test*
+*.out
+*.s
+link
+*.c
+*.cpp
