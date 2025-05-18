@@ -1,3 +1,5 @@
+/* Singly linked list. */
+
 #ifndef SLL_H
 # define SLL_H
 
